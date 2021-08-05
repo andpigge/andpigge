@@ -9,13 +9,13 @@
 
 ### Connect with me:
 
-<img align="left" alt="headhunter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" /> #HeadHunter.ru
+<img align="left" alt="headhunter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />HeadHunter.ru
 
 <br/>
 
 ### Tools and technologies:
 
-<img align="left" alt="react=" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/170px-React-icon.svg.png" /> #React.js
+<img align="left" alt="react=" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/170px-React-icon.svg.png" />React.js
 
 <!--
 **andpigge/andpigge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
