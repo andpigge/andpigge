@@ -15,7 +15,13 @@
 
 ### Tools and technologies:
 
-<img align="left" alt="react=" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/170px-React-icon.svg.png" />React.js
+<img align="left" alt="react=" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/170px-React-icon.svg.png" />
+<img align="left" alt="react=" width="30px" src="https://www.softprime.net/uploads/posts/2017-10/1509367594_html5-video-player_logo.jpg" />
+<img align="left" alt="react=" width="30px" src="https://lh3.googleusercontent.com/proxy/f7_LOduj4KvhVkV2A0_rr2DhflS0IiCKSQ2cbV0D6UkTZpkH9KOQ6w2KyVcim6C_z9UjO7p6YyNg72TUgmzEe1BYFyVs8w" />
+<img align="left" alt="react=" width="30px" src="https://webdesign-master.ru/img/thumbs/@1x/tools/sass/sass-cover.jpg" />
+<img align="left" alt="react=" width="30px" src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE.jpg" />
+<img align="left" alt="react=" width="30px" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" />
+<img align="left" alt="react=" width="30px" src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png" />
 
 <!--
 **andpigge/andpigge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
