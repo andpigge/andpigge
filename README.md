@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="headhunter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />HeadHunter.ru
+<img align="left" alt="headhunter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />[HeadHunter.ru](https://hh.ru/resume/dc361442ff07787a170039ed1f314a4e42476c)
 
 <br/>
 
