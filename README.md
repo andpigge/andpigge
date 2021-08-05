@@ -15,7 +15,7 @@
 
 ### Tools and technologies:
 
-[<img align="left" alt="react="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/170px-React-icon.svg.png" />][hh.ru]
+[<img align="left" alt="react=" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/170px-React-icon.svg.png" />][hh.ru]
 
 <!--
 **andpigge/andpigge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
