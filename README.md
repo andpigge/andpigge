@@ -34,6 +34,18 @@
 <img align="left" alt="react=" width="60px" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" />
 <img align="left" alt="react=" width="90px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Wvm5kZY6LRVRObR3IR3jLqskdk1vQ08KS0kWcJL2eE8A1d2PFr3-OceOO9vMiBSSnzQ&usqp=CAU" />
 
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=tyumen-777&hide=contribs&show_icons=true&theme=dark">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=tyumen-777&hide=contribs&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tyumen-777&layout=compact&theme=dark">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyumen-777&layout=compact&theme=dark" />
+</a>
+</div>
+
+<!--![Redux](/svg/redux.svg)
+![TS](/svg/TS.svg)
+
 <!--
 **andpigge/andpigge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
