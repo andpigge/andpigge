@@ -25,23 +25,11 @@
 <img align="left" alt="react=" width="70px" src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE.jpg" />
 <img align="left" alt="react=" width="60px" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" />
 <img align="left" alt="react=" width="90px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Wvm5kZY6LRVRObR3IR3jLqskdk1vQ08KS0kWcJL2eE8A1d2PFr3-OceOO9vMiBSSnzQ&usqp=CAU" />
-
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <p>Тысача людей откликаются на вакансию мечты, но уже на следующее утро просыпаются в постеле, как Джонни Депп.</p>
-<br/>
-<p>Тысача HR-специалистов просматривают резюме, в надежде найти не Джонни Деппа, но хоть Стивена Сигала.<p>
-
-<!--
-**andpigge/andpigge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Тысача HR-специалистов просматривают резюме, в надежде найти не Джонни Деппа, но хоть Стивена Сигала.</p>
